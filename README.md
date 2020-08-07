@@ -1,6 +1,6 @@
-<h1 align="center">Proffy - find your profissional</h1>
+<h1 align="center">Proffy - find your teacher</h1>
 <p align="center">
-  <img src="./ecoleta.svg" width="200px"/>
+  <img src="./proffy.svg" width="200px"/>
 </p>
 
 This app was developed on Next Level Week #02. It function is to find a waste collection nearest you. Helping you to contribute for the environment.
